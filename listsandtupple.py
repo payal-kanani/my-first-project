@@ -1,7 +1,7 @@
-#swapping two variables in python
+# Swapping two variables in python
 a = 10
 b = 20
-a,b = b,a
+a, b = b, a
 print(a)
 print(b)
 
@@ -27,6 +27,3 @@ def add_two_numbers(num1, num2):
 
 print(add_two_numbers(1, 2))
 '''
-
-import keyword
-print(keyword.kwlist)

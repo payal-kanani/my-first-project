@@ -21,9 +21,9 @@ for index in range(len(foods)):
 print(foods)
 '''
 
-
-#while loop
 '''
+# While loop
+
 i = 1
 while i <= 5:
     print(i)
